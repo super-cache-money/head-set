@@ -20,6 +20,10 @@
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-preset-env": "^1.5.1"
   },
-  "author": "",
+  "author": "Arjun Khoosal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/super-cache-money/make-runnable"
+  },
   "license": "ISC"
 }
